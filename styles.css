@@ -1,11 +1,14 @@
 /*  your css code here. If applicable */
-#nav-bar{
+.container{
 	font-family: Gilroy;
 	background-color: #D3D3D3;
 	padding: 10px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+ul{
+	display: flex;
 }
 li{
 	display: inline;
